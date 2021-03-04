@@ -7,4 +7,5 @@ exclude =
     __pycache__,
     manage.py,
     settings.py,
-    .venv
+    .venv,
+    tests
